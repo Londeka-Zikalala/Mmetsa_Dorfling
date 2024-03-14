@@ -1,0 +1,17 @@
+.images img{
+    width:100%;
+}
+
+.images{
+    width:50%;
+}
+.content{
+    width:100%;
+    display:flex;
+}
+.floating-paragraph{
+    width: 50%;
+    margin: 2px;
+    padding: 2px;
+}
+
